@@ -51,7 +51,11 @@ The system is designed using a modular approach:
 - Countdown timer mechanism
 - Relay-based triggering system
 - Safe control without external load connection
+## 💻 Source Code
 
+The full Arduino source code is available in this repository:
+
+[main.ino](main.ino)
 ---
 
 ## 🛠️ Hardware Components
