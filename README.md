@@ -118,7 +118,13 @@ Real hardware implementation is shown below:
 *(Add your project photo here)*
 
 ---
+## 🎥 Project Videos
 
+▶️ **System Usage Demo**  
+[kullanım.mp4](kullanım.mp4)
+
+▶️ **Countdown System Demo**  
+[patlama.mp4](patlama.mp4)
 ## 📌 Future Improvements
 
 - Bluetooth connectivity
